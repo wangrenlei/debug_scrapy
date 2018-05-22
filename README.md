@@ -22,7 +22,7 @@
     （注：可能环境中的依赖不够完全，那么就在项目运行中根据情况自行添加吧，年纪大了实在是忘了当时候可能装过啥）
 
 ### 3. Run the application:
-* `python __main__.py` or `python command.py`</br>
+* `python __main__.py` or `python cmdline.py`</br>
 
 （注：这里默认使用IDE的debug调试，入口处写了所有指令的主要使用方式，根据实际调试情况自行进行注释或释放）
 
