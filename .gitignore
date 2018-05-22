@@ -1,0 +1,4 @@
+# ignore .pyc files
+*.pyc
+
+doutu_download/.*
